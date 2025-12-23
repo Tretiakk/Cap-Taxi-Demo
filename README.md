@@ -54,3 +54,28 @@ Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Google Maps, Retrofit, Google C
 ### Network error
 ![](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Network.png)
 
+<br><br>
+
+
+See my other projects!
+<h5>
+  <a href="https://github.com/Tretiakk/Virtual-Space-Demo">
+    Virtual Space (App Virtualization Engine)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Aqua-AI-Demo">
+    Aqua AI (OpenAI Client)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Anyalen-Demo">
+    Anyalen (Agency MVP)
+  </a>
+</h5>
+<h5>
+  <a href="https://github.com/Tretiakk/Weather-Demo">
+    Weather (Location-Aware Forecast)
+  </a>
+</h5>
+
