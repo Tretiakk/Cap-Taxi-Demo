@@ -32,7 +32,7 @@ Kotlin, Jetpack Compose, MVVM, Google Maps, Retrofit, Google Cloud API (Directio
 <br>
 
 <h2>
-  <a href="https://youtube.com/shorts/PiRExvUjGxU">
+  <a href="https://www.youtube.com/watch?v=PiRExvUjGxU">
     Video Demo
   </a>
 </h2>
