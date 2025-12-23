@@ -1,4 +1,4 @@
-# Taxist App ©
+# Cap Taxi
 
 _When the app is opened_, it requests permission to access the user’s location, so it can later be used as the starting point.
 
