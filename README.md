@@ -17,7 +17,8 @@ A centralized localization system supporting 6 languages (DE, EN, ES, FR, PL, UA
 
 <br>
 
-Tech Stack: Kotlin, Jetpack Compose, MVVM, Google Maps, Retrofit, Google Cloud API (Directions API, Places API), Android Fused Location Provider, Compose Animations, JUnit, Gradle KTS.
+**Tech Stack:** <br>
+Kotlin, Jetpack Compose, MVVM, Google Maps, Retrofit, Google Cloud API (Directions API, Places API), Android Fused Location Provider, Compose Animations, JUnit, Gradle KTS.
 
 <br>
 
