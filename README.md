@@ -23,15 +23,16 @@ Kotlin, Jetpack Compose, MVVM, Google Maps, Retrofit, Google Cloud API (Directio
 
 <br>
 
+## [Video demonstration](https://youtube.com/shorts/PiRExvUjGxU)
+
+<br>
+
 <h3>
   <a href="https://drive.google.com/file/d/1hP0rF4dX0xLyXLaKaHAY_nezh1n3ymig/view?usp=sharing">
     Download (Only for Android)
   </a>
 </h3>
 
-<br>
-
-## [Video demonstration](https://youtube.com/shorts/PiRExvUjGxU)
 
 <img src="Taxist%20Preview%203.png" width="70%">
 
