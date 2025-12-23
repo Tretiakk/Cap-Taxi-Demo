@@ -1,28 +1,33 @@
-# Taxist App ©
+# Cap Taxi
+###### Individual Project
 
-_When the app is opened_, it requests permission to access the user’s location, so it can later be used as the starting point.
+**Geospatial & Routing Logic**:
+Utilizes Android Fused Location Provider for precise user positioning. The routing system integrates Google Maps SDK and Google Cloud APIs (Directions & Places) to handle point-to-point path visualization and address autocomplete.
 
-Once the permission is granted, the user can select the starting point and destination, and then press the button to see the route, as well as the delivery price (if the trip is less than 15 km and a driver has been selected). If a driver hasn’t been selected but the route is set, the price will automatically appear once a driver is chosen and will adjust based on the driver.
+**Dynamic Fare Calculation**:
+Implements a distance-based pricing algorithm that calculates costs based on the Great-circle distance between coordinates A and B. The logic includes a 15km threshold check and dynamic price adjustments that synchronize with the selected driver’s rate in real-time.
 
-To select a driver, the user needs to tap on the "Select Driver" text in the top-right corner, after which the driver selection menu will appear. To choose a driver, simply click on the driver’s card. To see more information about the driver, double-click or long-press the driver’s card.
+**Data Filtering & Driver Selection**:
+Features a local data-driven system for managing a fleet of drivers. Includes a multi-parameter search functionality (car body type, model, driver identity) and a detailed profile view system implemented through specialized UI interactions.
 
-At the bottom of the driver menu, there is a search system that allows you to find drivers based on parameters such as car body type, driver's name, car model, or price.
+**State Management & Resilience**
+Built on MVVM architecture with Jetpack Compose, ensuring a reactive UI. The app includes a network monitoring layer that detects connectivity loss, providing automated error states and UI recovery once the connection is restored.
 
-If something is unclear, you can click on the exclamation mark in the bottom-right corner, and additional information will be displayed.
+**Localization & Globalization**:
+A centralized localization system supporting 6 languages (DE, EN, ES, FR, PL, UA). The architecture is designed to handle RTL/LTR layouts and local formatting for currency and distance.
 
-If there is no internet connection, the app will display a connection error, which will disappear once the connection is restored.
+<br>
 
-App Fully supports German, English, Spanish, French, Polish, and Ukrainian languages.
+**Tech Stack:** <br>
+Kotlin, Jetpack Compose, MVVM, Google Maps, Retrofit, Google Cloud API (Directions API, Places API), Android Fused Location Provider, Compose Animations, JUnit, Gradle KTS.
 
-________________________
+<br>
 
-
-# [Download app (only for android)](https://drive.google.com/file/d/1hdyv-SCe6SRzc6a2t_M9RwtwApgjx3nI/view?usp=sharing)
-The first time you run it, there may be problems (Google starts the app in safe mode because the app is unknown), then just **restart** the app.
+<br>
 
 ## [Video demonstration](https://youtube.com/shorts/PiRExvUjGxU)
 
-![](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Taxist%20Preview%203.png)
+<img src="Taxist%20Preview%203.png" width="70%">
 
 ### Main menu
 ![](https://github.com/Tretiakk/Taxist-Demonstratoin/blob/main/Main.png)
