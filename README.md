@@ -15,7 +15,13 @@ Built on MVVM architecture with Jetpack Compose, ensuring a reactive UI. The app
 **Localization & Globalization**:
 A centralized localization system supporting 6 languages (DE, EN, ES, FR, PL, UA). The architecture is designed to handle RTL/LTR layouts and local formatting for currency and distance.
 
-<br><br>
+<br>
+
+Tech Stack: Kotlin, Jetpack Compose, MVVM, Google Maps, Retrofit, Google Cloud API (Directions API, Places API), Android Fused Location Provider, Compose Animations, JUnit, Gradle KTS.
+
+<br>
+
+<br>
 
 ## [Video demonstration](https://youtube.com/shorts/PiRExvUjGxU)
 
