@@ -1,5 +1,6 @@
 # Cap Taxi
 ###### Individual Project
+<img src="icon.svg" width="64" height="64">
 
 **Geospatial & Routing Logic**:
 Utilizes Android Fused Location Provider for precise user positioning. The routing system integrates Google Maps SDK and Google Cloud APIs (Directions & Places) to handle point-to-point path visualization and address autocomplete.
