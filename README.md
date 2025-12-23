@@ -1,5 +1,5 @@
 # Cap Taxi
-###### Commissioned Prototype | Full-cycle Development
+###### Commissioned MVP | Full-cycle Development
 <img src="icon.svg" width="64" height="64">
 
 **Geospatial & Routing Logic**:
