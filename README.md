@@ -25,7 +25,7 @@ Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Google Maps, Retrofit, Google C
 <br>
 
 <h3>
-  <a href="https://drive.google.com/file/d/1hP0rF4dX0xLyXLaKaHAY_nezh1n3ymig/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CoJpdKNqobKNURQ4xcoV74nhrTsOvjFS/view?usp=sharing">
     Download (Only for Android)
   </a>
 </h3>
