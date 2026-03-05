@@ -57,7 +57,7 @@ Kotlin, Jetpack Compose, Clean Architecture, MVVM, Coroutines, Flow, Google Maps
 <br><br>
 
 
-See my other projects!
+See my other demos!
 <h5>
   <a href="https://github.com/Tretiakk/Virtual-Space-Demo">
     Virtual Space (App Virtualization Engine)
@@ -66,11 +66,6 @@ See my other projects!
 <h5>
   <a href="https://github.com/Tretiakk/Aqua-AI-Demo">
     Aqua AI (OpenAI Client)
-  </a>
-</h5>
-<h5>
-  <a href="https://github.com/Tretiakk/Anyalen-Demo">
-    Anyalen (Agency MVP)
   </a>
 </h5>
 <h5>
